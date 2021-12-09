@@ -5,6 +5,12 @@
       "title": "hello"
     }
   ],
+  "rooms": [
+    {
+      "id": 1,
+      "title": "Room Title"
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
